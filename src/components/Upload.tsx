@@ -8,7 +8,7 @@ const Upload = ({ getRootProps, getInputProps }: UploadProps) => (
       <FileUploadIcon width={82} height={82} />
     </div>
     <p>
-      Drop your <span style={{ fontWeight: 'bold' }}>HEIC</span> file here
+      Drop your <span style={{ fontWeight: 'bold' }}>HEIC/HEIF</span> file here
     </p>
   </div>
 )
