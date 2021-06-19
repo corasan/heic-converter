@@ -2,7 +2,7 @@ import { DropzoneInputProps, DropzoneRootProps } from 'react-dropzone'
 import { ReactComponent as FileUploadIcon } from '../assets/file-upload-filled.svg'
 
 const Upload = ({ getRootProps, getInputProps }: UploadProps) => (
-  <div {...getRootProps()}>
+  <div {...getRootProps()} className="uploader">
     <input {...getInputProps()} />
     <div className="icon-btn">
       <FileUploadIcon width={82} height={82} />
