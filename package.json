@@ -2,7 +2,7 @@
   "name": "heic-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/corasan/heic-converter",
+  "homepage": "http://corasan.gthub.io/heic-converter",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
