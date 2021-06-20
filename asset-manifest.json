@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/corasan/heic-converter/static/css/main.9794c376.chunk.css",
-    "main.js": "/corasan/heic-converter/static/js/main.a6289582.chunk.js",
-    "main.js.map": "/corasan/heic-converter/static/js/main.a6289582.chunk.js.map",
-    "runtime-main.js": "/corasan/heic-converter/static/js/runtime-main.15230553.js",
-    "runtime-main.js.map": "/corasan/heic-converter/static/js/runtime-main.15230553.js.map",
-    "static/js/2.87b87b8e.chunk.js": "/corasan/heic-converter/static/js/2.87b87b8e.chunk.js",
-    "static/js/2.87b87b8e.chunk.js.map": "/corasan/heic-converter/static/js/2.87b87b8e.chunk.js.map",
-    "static/js/3.b3836c60.chunk.js": "/corasan/heic-converter/static/js/3.b3836c60.chunk.js",
-    "static/js/3.b3836c60.chunk.js.map": "/corasan/heic-converter/static/js/3.b3836c60.chunk.js.map",
-    "index.html": "/corasan/heic-converter/index.html",
-    "static/css/main.9794c376.chunk.css.map": "/corasan/heic-converter/static/css/main.9794c376.chunk.css.map",
-    "static/js/2.87b87b8e.chunk.js.LICENSE.txt": "/corasan/heic-converter/static/js/2.87b87b8e.chunk.js.LICENSE.txt",
-    "static/media/file-download-filled.44236aa6.svg": "/corasan/heic-converter/static/media/file-download-filled.44236aa6.svg",
-    "static/media/file-upload-filled.d714e0b5.svg": "/corasan/heic-converter/static/media/file-upload-filled.d714e0b5.svg"
+    "main.css": "/heic-converter/static/css/main.9794c376.chunk.css",
+    "main.js": "/heic-converter/static/js/main.a6289582.chunk.js",
+    "main.js.map": "/heic-converter/static/js/main.a6289582.chunk.js.map",
+    "runtime-main.js": "/heic-converter/static/js/runtime-main.03802e51.js",
+    "runtime-main.js.map": "/heic-converter/static/js/runtime-main.03802e51.js.map",
+    "static/js/2.87b87b8e.chunk.js": "/heic-converter/static/js/2.87b87b8e.chunk.js",
+    "static/js/2.87b87b8e.chunk.js.map": "/heic-converter/static/js/2.87b87b8e.chunk.js.map",
+    "static/js/3.b3836c60.chunk.js": "/heic-converter/static/js/3.b3836c60.chunk.js",
+    "static/js/3.b3836c60.chunk.js.map": "/heic-converter/static/js/3.b3836c60.chunk.js.map",
+    "index.html": "/heic-converter/index.html",
+    "static/css/main.9794c376.chunk.css.map": "/heic-converter/static/css/main.9794c376.chunk.css.map",
+    "static/js/2.87b87b8e.chunk.js.LICENSE.txt": "/heic-converter/static/js/2.87b87b8e.chunk.js.LICENSE.txt",
+    "static/media/file-download-filled.44236aa6.svg": "/heic-converter/static/media/file-download-filled.44236aa6.svg",
+    "static/media/file-upload-filled.d714e0b5.svg": "/heic-converter/static/media/file-upload-filled.d714e0b5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15230553.js",
+    "static/js/runtime-main.03802e51.js",
     "static/js/2.87b87b8e.chunk.js",
     "static/css/main.9794c376.chunk.css",
     "static/js/main.a6289582.chunk.js"
